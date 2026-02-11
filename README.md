@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Tim and I'm interested in computational mechanics and numerical methods.
 <!--
 **plessketim/plessketim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
