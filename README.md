@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Tim and I'm interested in computational mechanics and numerical methods.
+I'm Tim, a Master's student in Engineering Structures at KIT with a specialisation in modelling and simulation. I'm interested in computational dynamics and numerical methods, particularly finite element methods and time integration schemes.
 <!--
 **plessketim/plessketim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
